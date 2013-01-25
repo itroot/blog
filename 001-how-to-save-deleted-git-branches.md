@@ -6,9 +6,6 @@ Slug: how-to-save-deleted-git-branches
 Author: Ivan Tolstosheyev
 Summary: You can delete branch, do not see it, but have access to commits it contains.
 
-
-Reply-to: http://stackoverflow.com/questions/8988240/what-to-do-with-experimental-non-merged-git-branches
-
 Usually I create a lot of branches working with git repository. 
 Some of those branches are merged into master branch, some of them don't.
 At some point of lifetime of repo you can see picture of having hundreds of abandoned branches, and only couple of active.
