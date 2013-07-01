@@ -1,1 +1,41 @@
-body { background-color : #afcfdf; }
+body
+{
+    background-color : #eeeeef;
+    font-family : Lucida Console, monospace;
+}
+
+.titlebox
+{ 
+    width: 600px;
+    padding: 10px;
+    border: 2px solid #777;
+    text-align: center;
+    display: inline-block;
+}
+
+.content
+{
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+
+a:link {
+    text-decoration:none;
+    background-color:#9999aa;
+}
+
+a:visited {
+    text-decoration:none;
+    background-color:#9999ee;
+}
+
+a:hover {
+    text-decoration:none;
+    background-color:#9999ff;
+}
+
+a:active {
+    text-decoration:none;
+    background-color:#9999ee;
+}
